@@ -1,0 +1,378 @@
+canonical_identifier: bkk:krp/KR6w0018/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0018/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經疏指心鈔
+  identifiers:
+    krp: KR6w0018
+    cbeta: D18n8863
+    cbeta_old_id: D18n8863
+    authorityid: CA0008017
+    json_key: D8863
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D18/D18n8863.xml
+    old_id: D18n8863
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0018_000-D.yaml, hash: 'sha256:b349330a8e4a6d6e0999c2050dd356658483b76dcb912d1a518ac177cf456cca'}
+  - {seq: 1, filename: KR6w0018_001-D.yaml, hash: 'sha256:a9c2a3294452d7a1b7b58148cfd9fb2dc6d561e743cd707c403790f4512e1223'}
+  - {seq: 2, filename: KR6w0018_002-D.yaml, hash: 'sha256:61d61b93846028002c639de808dc528dec63fdc236aa8012a77cf156b795e0b1'}
+  - {seq: 3, filename: KR6w0018_003-D.yaml, hash: 'sha256:26f88cc48c183f7c6bca6c5ec0aaaa93223ea3a74a32ffd9eac09d90f403e9f6'}
+  - {seq: 4, filename: KR6w0018_004-D.yaml, hash: 'sha256:07dbc97187085b1f309653eb3804ee93864c9313fb37259fd02ea1853e27ea79'}
+  - {seq: 5, filename: KR6w0018_005-D.yaml, hash: 'sha256:2c8349b053bc43b129cd0fa5f13b97a25626a8a05135df68d70b0497b9439c44'}
+  - {seq: 6, filename: KR6w0018_006-D.yaml, hash: 'sha256:0af6310acbd811afbc11d5b96b18761603b946c9e278c282b4b0dda70c02f32f'}
+  - {seq: 7, filename: KR6w0018_007-D.yaml, hash: 'sha256:d74c5fa20c5e9e5b0e5d3bda2b16fc5a09cd371e0c89dcba8a6377f2081ca2b6'}
+  - {seq: 8, filename: KR6w0018_008-D.yaml, hash: 'sha256:4a7c40cc1bfb6bbe7096e310ec5c4a7a33d84519ceb3d41ddf6772d3205bdecb'}
+  - {seq: 9, filename: KR6w0018_009-D.yaml, hash: 'sha256:51e392b603cd80dbdc618b604b0991ff89282f48b70dff353eeac09783e88235'}
+  - {seq: 10, filename: KR6w0018_010-D.yaml, hash: 'sha256:72735e87ad83e80f579deac60bc87215fb202263a3f982cff5a0bc2b975d0b12'}
+  - {seq: 11, filename: KR6w0018_011-D.yaml, hash: 'sha256:584d17fec5e51673670acaa7a8ff0377874ec17069b4596f581be9ea89e7e025'}
+  - {seq: 12, filename: KR6w0018_012-D.yaml, hash: 'sha256:3534a6f7a9e0f80df9e51c3af106dc14560d4c9ea8a6ca1d3bd893dc904fd9a8'}
+  - {seq: 13, filename: KR6w0018_013-D.yaml, hash: 'sha256:5ec87ec5872503a514b98a4f0179bfccaa28040fc5ac7a9a91072870b1b3544e'}
+  - {seq: 14, filename: KR6w0018_014-D.yaml, hash: 'sha256:2275673a7b58e41780cf7112e6eb5611bc976f7602a57f824ac7408708ea1d31'}
+  - {seq: 15, filename: KR6w0018_015-D.yaml, hash: 'sha256:081737639904fa23ebaaa4ca08676c6b3eebca1d90e4b7644a041ee838d62d35'}
+  - {seq: 16, filename: KR6w0018_016-D.yaml, hash: 'sha256:003a538db0985708bc37ce7869f63b370be71243b9fdb4a52abd91f368c09e81'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0018_000-D.markers.yaml, hash: 'sha256:e773fe1d6b305342154f00abb89738882d1ffde5403e300c7722be8f06c5ac03'}
+  - {seq: 1, role: markers, filename: assets/KR6w0018_001-D.markers.yaml, hash: 'sha256:6b8d68d19bafd6e77739dd1b6556b05365ec7f0e9a22ea48aa8c883e14917dc8'}
+  - {seq: 2, role: markers, filename: assets/KR6w0018_002-D.markers.yaml, hash: 'sha256:157cbae724c1634646245ebf25ffaf2fb9ed1361c76e2578c4dd62fb8b87ba5d'}
+  - {seq: 3, role: markers, filename: assets/KR6w0018_003-D.markers.yaml, hash: 'sha256:fedf46127b7ee49798058cceee615142009b6ea3fadc05c65f523be35aeb52d8'}
+  - {seq: 4, role: markers, filename: assets/KR6w0018_004-D.markers.yaml, hash: 'sha256:6a825b2f8b19297f9995dbdd8b8506c87b7f571a19b9225ba8c35997e11f398a'}
+  - {seq: 5, role: markers, filename: assets/KR6w0018_005-D.markers.yaml, hash: 'sha256:825afaded848a5ae5cb70a94abda1402e16163cd61738b892bd92a39debee029'}
+  - {seq: 6, role: markers, filename: assets/KR6w0018_006-D.markers.yaml, hash: 'sha256:a13d2dd48d0dd1c9988cb859940e7d8d0161e3fa433fa2f182904db9c012343e'}
+  - {seq: 7, role: markers, filename: assets/KR6w0018_007-D.markers.yaml, hash: 'sha256:6dd76181c309fced654af64cd274865e3308588a6220867072978059f0e125be'}
+  - {seq: 8, role: markers, filename: assets/KR6w0018_008-D.markers.yaml, hash: 'sha256:dd239fd9fd9064a442032fa283cafcbbe6c3f7e7a71a9e50cf9f71d301989860'}
+  - {seq: 9, role: markers, filename: assets/KR6w0018_009-D.markers.yaml, hash: 'sha256:eaad3286a21888ae166e6f41fd5598515aeff63d8380e705217b7d9b74b2e73e'}
+  - {seq: 10, role: markers, filename: assets/KR6w0018_010-D.markers.yaml, hash: 'sha256:630024d8f187c80918912bd5ead4db3434de47c3161da352e9c5142d2cd19adc'}
+  - {seq: 11, role: markers, filename: assets/KR6w0018_011-D.markers.yaml, hash: 'sha256:9e987197478d98d4d74a066b113dbd5a288aaae38ffe6d0fa3ca7fc37e452c21'}
+  - {seq: 12, role: markers, filename: assets/KR6w0018_012-D.markers.yaml, hash: 'sha256:143f1dd45edb2dee6bd96edd1de32ecf843515eace2f07ac89d33a16d5bc50e6'}
+  - {seq: 13, role: markers, filename: assets/KR6w0018_013-D.markers.yaml, hash: 'sha256:740da1c633701a8a601d8de7b6e9f5979a6a299bd812ec8ad80789bbca88a772'}
+  - {seq: 14, role: markers, filename: assets/KR6w0018_014-D.markers.yaml, hash: 'sha256:50d2e40f39ff114ce1f7a80e5673132951679acee04f0eab6f9294c7aa5a15a8'}
+  - {seq: 15, role: markers, filename: assets/KR6w0018_015-D.markers.yaml, hash: 'sha256:30e7c525cbcba93e778ce24154bc3e4463cd66ec690adc488dc31364f1559aae'}
+  - {seq: 16, role: markers, filename: assets/KR6w0018_016-D.markers.yaml, hash: 'sha256:20a23bb9cd49277a995e4711860da26c5320ea9162d076d6eba42c29172947cb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0018_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 19713
+  label: 大日經䟽指心鈔卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0018_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0018_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 18138
+  label: 大日經䟽󷔆心鈔卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0018_D_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0018_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 17133
+  label: 大日經䟽󷔆心鈔卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0018_D_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0018_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 24843
+  label: 大日經䟽指心鈔卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0018_D_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0018_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 18787
+  label: 大日經䟽󷔆心鈔卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0018_D_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0018_D_006-juan-start
+    span:
+    - body
+    - 0
+    - 21277
+  label: 大日經䟽󷔆心鈔卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6w0018_D_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0018_D_007-juan-start
+    span:
+    - body
+    - 0
+    - 21464
+  label: 大日經䟽󷔆心鈔卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6w0018_D_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第一之七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0018_D_008-juan-start
+    span:
+    - body
+    - 0
+    - 24633
+  label: 大日經䟽󷔆心鈔卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6w0018_D_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0018_D_009-juan-start
+    span:
+    - body
+    - 0
+    - 17341
+  label: 大日經䟽󷔆心鈔卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6w0018_D_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0018_D_010-juan-start
+    span:
+    - body
+    - 0
+    - 24501
+  label: 大日經䟽指心鈔卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6w0018_D_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0018_D_011-juan-start
+    span:
+    - body
+    - 0
+    - 20887
+  label: 大日經䟽𢫾心鈔卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6w0018_D_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6w0018_D_012-juan-start
+    span:
+    - body
+    - 0
+    - 16051
+  label: 大日經䟽󷮥心鈔卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6w0018_D_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6w0018_D_013-juan-start
+    span:
+    - body
+    - 0
+    - 13563
+  label: 大日經䟽指心鈔卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6w0018_D_013-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6w0018_D_014-juan-start
+    span:
+    - body
+    - 0
+    - 16330
+  label: 大日經䟽指心鈔卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6w0018_D_014-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第二之七
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6w0018_D_015-juan-start
+    span:
+    - body
+    - 0
+    - 18701
+  label: 大日經䟽󷔆心鈔卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6w0018_D_015-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第三之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6w0018_D_016-juan-start
+    span:
+    - body
+    - 0
+    - 17248
+  label: 大日經䟽指心鈔卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6w0018_D_016-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 䟽卷第三之二
+  type: mulu
+  level: 1
+hash: sha256:3295a69ffea46f0b57788f5ccbfe36f5eab66bcf2e74774de99aa86cc4345277

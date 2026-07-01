@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0018/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經疏指心鈔
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D18/D18n8863.xml
+    old_id: D18n8863
+hash: sha256:b349330a8e4a6d6e0999c2050dd356658483b76dcb912d1a518ac177cf456cca
