@@ -73,6 +73,7 @@ markers:
   - {type: xml-element, offset: 405, content: '', id: pD18p0583a0121_end, name: p, role: close, attrs: {'xml:id': pD18p0583a0121, 'cb:place': inline}}
   - {type: xml-element, offset: 405, content: '', id: pD18p0583a1009, name: p, role: open, attrs: {'xml:id': pD18p0583a1009, 'cb:place': inline}}
   - {type: punctuation, offset: 405, content: ▲, id: KR6w0018_D_016-bkkpn17}
+  - {type: 'voice:problem', offset: 405, length: 48, id: KR6w0018_bkk_016-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''▲'' at offset 405, got ''▲'' at offset 453'}
   - {type: line-break, offset: 415, content: '', id: KR6w0018_D_016-0583a11, ed: D, 'n': 0583a11}
   - {type: substitution, offset: 428, original: 囙, replacement: 因, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16342}}
   - {type: line-break, offset: 437, content: '', id: KR6w0018_D_016-0583a12, ed: D, 'n': 0583a12}
@@ -3011,4 +3012,4 @@ markers:
   - {type: substitution, offset: 17242, original: 庄, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16381}}
   - {type: xml-element, offset: 17248, content: '', id: pD18p0614a0401_end, name: p, role: close, attrs: {'xml:id': pD18p0614a0401, style: 'margin-left:6em'}}
   back: []
-hash: sha256:6c66cfd22b4edfb1205dce70beba2d1677c5c2b40b283961111e83a6cea780c0
+hash: sha256:a373df0863fa7d549e9aee403b6a35f82df01ea29a0dea35b81ae6256d6bf313

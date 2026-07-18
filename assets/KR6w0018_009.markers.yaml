@@ -809,6 +809,7 @@ markers:
   - {type: xml-element, offset: 4468, content: '', id: pD18p0330b0511_end, name: p, role: close, attrs: {'xml:id': pD18p0330b0511, 'cb:place': inline}}
   - {type: xml-element, offset: 4468, content: '', id: pD18p0330b0605, name: p, role: open, attrs: {'xml:id': pD18p0330b0605, 'cb:place': inline}}
   - {type: punctuation, offset: 4468, content: ▲, id: KR6w0018_D_009-bkkpn133}
+  - {type: 'voice:problem', offset: 4468, length: 65, id: KR6w0018_bkk_009-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''▲'' at offset 4468, got ''▲'' at offset 4533'}
   - {type: substitution, offset: 4471, original: 𨷖, replacement: 鬥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6321}}
   - {type: substitution, offset: 4477, original: 𨷖, replacement: 鬥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6321}}
   - {type: line-break, offset: 4482, content: '', id: KR6w0018_D_009-0330b07, ed: D, 'n': 0330b07}
@@ -3110,4 +3111,4 @@ markers:
   - {type: page-break, offset: 17341, content: '', id: KR6w0018_D_009-0355b, ed: D, 'n': 0355b, source_xml_id: D18.8863.0355b}
   - {type: line-break, offset: 17341, content: '', id: KR6w0018_D_009-0355b01, ed: D, 'n': 0355b01}
   back: []
-hash: sha256:0a1e1f945ce8b18096980abb654fbcdb61c4910c099edd50b906214eb1d7ca2b
+hash: sha256:f76720b5977eff69cb83a325bf6de44c5003bb13d9189e1f5890aa1961af542a

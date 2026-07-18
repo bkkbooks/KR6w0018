@@ -1598,6 +1598,7 @@ markers:
   - {type: xml-element, offset: 7777, content: '', id: pD18p0371a0617_end, name: p, role: close, attrs: {'xml:id': pD18p0371a0617, 'cb:place': inline}}
   - {type: xml-element, offset: 7777, content: '', id: pD18p0371b0308, name: p, role: open, attrs: {'xml:id': pD18p0371b0308, 'cb:place': inline}}
   - {type: punctuation, offset: 7777, content: ▲, id: KR6w0018_D_010-bkkpn334}
+  - {type: 'voice:problem', offset: 7777, length: 900, id: KR6w0018_bkk_010-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''▲'' at offset 7777, got ''▲'' at offset 8677'}
   - {type: line-break, offset: 7788, content: '', id: KR6w0018_D_010-0371b04, ed: D, 'n': 0371b04}
   - {type: substitution, offset: 7793, original: 㝡, replacement: 最, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17453}}
   - {type: substitution, offset: 7795, original: 断, replacement: 斷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17357}}
@@ -4800,4 +4801,4 @@ markers:
   - {type: page-break, offset: 24501, content: '', id: KR6w0018_D_010-0406b, ed: D, 'n': 0406b, source_xml_id: D18.8863.0406b}
   - {type: line-break, offset: 24501, content: '', id: KR6w0018_D_010-0406b01, ed: D, 'n': 0406b01}
   back: []
-hash: sha256:30f61ead24d03b89ab5e223f5032a8f1bd1b063dfa44961cbcd5bce01288aa2d
+hash: sha256:d45cc01ace5cacc5ddc9605526d2ef729af525985cb4acd2773d4a5e3638b760

@@ -347,6 +347,7 @@ markers:
   - {type: xml-element, offset: 1653, content: '', id: pD18p0116a0120, name: p, role: open, attrs: {'xml:id': pD18p0116a0120, 'cb:place': inline}}
   - {type: punctuation, offset: 1653, content: ▲, id: KR6w0018_D_004-bkkpn85}
   - {type: line-break, offset: 1653, content: '', id: KR6w0018_D_004-0116a02, ed: D, 'n': 0116a02}
+  - {type: 'voice:problem', offset: 1653, length: 173, id: KR6w0018_bkk_004-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''▲'' at offset 1653, got ''▲'' at offset 1826'}
   - {type: substitution, offset: 1667, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20790}}
   - {type: punctuation, offset: 1668, content: 󷄫, id: KR6w0018_D_004-bkkpn86}
   - {type: substitution, offset: 1668, original: 舎, replacement: 舍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20673}}
@@ -5224,4 +5225,4 @@ markers:
   - {type: page-break, offset: 24843, content: '', id: KR6w0018_D_004-0160b, ed: D, 'n': 0160b, source_xml_id: D18.8863.0160b}
   - {type: line-break, offset: 24843, content: '', id: KR6w0018_D_004-0160b01, ed: D, 'n': 0160b01}
   back: []
-hash: sha256:66089abd658365efba6626869519479ee6ad8044ada0374248b2d70f18458619
+hash: sha256:e1c4efd7d6d5a859ede6a34ee0b9ca0eb984cdc5571be6b381a35b7c4625a3fd
